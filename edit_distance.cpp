@@ -1,3 +1,4 @@
+//Minimum number of operations to perform to convert s2 to s1
 #include <iostream>
 #include<stdlib.h>
 #include<string.h>
