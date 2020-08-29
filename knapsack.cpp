@@ -1,3 +1,4 @@
+//The maximum weight of gold that fits into a knapsack of capacity w
 #include <iostream>
 #include<stdlib.h>
 #include<string.h>
