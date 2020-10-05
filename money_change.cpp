@@ -1,3 +1,4 @@
+//The minimum number of coins with denominations 1, 3, 4 that changes money.
 #include <iostream>
 using namespace std;
 
